@@ -1,0 +1,12 @@
+{
+	"model": "xPhone",
+	"color": "White",
+	"price": 100000,
+	"vendor": {
+		name: "Mandice",
+		website: "www.htc.com",
+		tel: {
+			"886912345678"
+		}
+	}
+}
